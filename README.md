@@ -1,5 +1,6 @@
 # The_impact_of_price__sensitivity_on_SME_churn
 This is a BCG project on building a churn model to undestand whether price sensitivity is a large driver of churn potential in SMEs
+IT IS STILL WORK IN PROGRESS.
 # Project/Goals
 The goal of the project is to gain insights from the data sets ,build a churn model to undestand whether price sensitivity is a large driver of churn potential in SMEs and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions making.
 Questions asked:
