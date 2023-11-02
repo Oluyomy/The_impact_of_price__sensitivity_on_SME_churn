@@ -31,8 +31,8 @@ Step 3: EDA.exploratory data analysis,
 Step 4: preprocessing and feature engineering.
 - Detect and handle outliers.
 - Structure the data for efficient analysis.
-- Split the into training and testing for appropriate training .
-- Scale the data 
+- Split the data into training and testing for appropriate training .
+- Scale the data .
 
 Step 5: Building a  Logistic regression model.
 
